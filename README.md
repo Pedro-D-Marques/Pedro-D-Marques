@@ -11,9 +11,9 @@
 
 <br/>
 
-<a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-0d1117?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Pedro-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d1117&color=2a2735" alt="LinkedIn"/></a>
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-contato-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="Email"/></a>
+<a href="https://github.com/Pedro-D-Marques"><img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-0d1117?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/[SEU-LINKEDIN](https://www.linkedin.com/in/pedro-daniel-marques-811996317/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-Pedro-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d1117&color=2a2735" alt="LinkedIn"/></a>
+<a href="mailto:pedrodmarques.dev@gmail.com"><img src="https://img.shields.io/badge/Email-contato-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=a78bfa&style=for-the-badge&label=VIEWS&labelColor=0d1117" alt="Views"/>
 
 <br/><br/>
@@ -211,9 +211,9 @@ Combinar **Cybersecurity + Desenvolvimento + Infraestrutura + Cloud** para atuar
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d1117&color=2a2735" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d1117&color=2a2735" alt="[LinkedIn](https://www.linkedin.com/in/pedro-daniel-marques-811996317/?isSelfProfile=true)"/></a>
 <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="GitHub"/></a>
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="Email"/></a>
+<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="pedrodmarques.dev@gmail.com"/></a>
 
 <br/><br/>
 
