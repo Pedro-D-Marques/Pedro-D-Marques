@@ -63,7 +63,7 @@ idiomas      = Português (nativo) · Inglês (uso profissional)
 </td>
 <td width="50%" valign="top">
 
-### 🩷 Knowledge
+### 🧠 Knowledge
 *Base sólida, em prática contínua*
 
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=white&labelColor=0d1117&color=f472b6)
