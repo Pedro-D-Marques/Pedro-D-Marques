@@ -11,10 +11,10 @@
 
 <br/>
 
-<a href="https://github.com/Pedro-D-Marques"><img src="https://img.shields.io/badge/GitHub-SEU--USUARIO-0d1117?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/[SEU-LINKEDIN](https://www.linkedin.com/in/pedro-daniel-marques-811996317/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-Pedro-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d1117&color=2a2735" alt="LinkedIn"/></a>
+<a href="https://github.com/Pedro-D-Marques"><img src="https://img.shields.io/badge/GitHub-Pedro_Marques-0d1117?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/pedro-daniel-marques-811996317/"><img src="https://img.shields.io/badge/LinkedIn-Pedro-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d1117&color=2a2735" alt="LinkedIn"/></a>
 <a href="mailto:pedrodmarques.dev@gmail.com"><img src="https://img.shields.io/badge/Email-contato-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=a78bfa&style=for-the-badge&label=VIEWS&labelColor=0d1117" alt="Views"/>
+<img src="https://komarev.com/ghpvc/?username=https://www.linkedin.com/in/pedro-daniel-marques-811996317/&color=a78bfa&style=for-the-badge&label=VIEWS&labelColor=0d1117" alt=""/>
 
 <br/><br/>
 
@@ -26,7 +26,7 @@
 
 ## `> sobre_mim`
 
-Tenho 21 anos, sou de Campinas (SP) e trabalho como **Analista Documental**, na interface entre documentação técnica, equipamentos wireless e laboratórios. Sou formado em **Análise e Desenvolvimento de Sistemas** e hoje estudo **Cybersecurity com foco em Red Team** na FIAP.
+Tenho 21 anos, sou de Campinas (SP) e trabalho como **Analista**, na interface entre documentação técnica, equipamentos wireless e laboratórios. Sou formado em **Análise e Desenvolvimento de Sistemas** e hoje estudo **Cybersecurity com foco em Red Team** na FIAP.
 
 Meu dia a dia mistura **análise técnica, redes, ferramentas de teste e automação**, e é por isso que quero construir uma carreira onde segurança, desenvolvimento e infraestrutura se encontram.
 
