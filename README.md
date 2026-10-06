@@ -181,7 +181,7 @@ Contato técnico com tecnologias de comunicação sem fio através do trabalho c
 
 <img src="https://streak-stats.demolab.com?user=Pedro-D-Marques&background=0d1117&ring=f472b6&fire=a78bfa&currStreakLabel=c084fc&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b8b9a&border=2a2735" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro-D-Marques&bg_color=0d1117&color=c084fc&line=f472b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de contribuições" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro-D-Marques&theme=github-dark&hide_border=true&area=true" width="100%" alt="Gráfico de contribuições" />
 
 <img src="https://raw.githubusercontent.com/Pedro-D-Marques/Pedro-D-Marques/output/github-snake-dark.svg" width="100%" alt="Snake de contribuições" />
 
