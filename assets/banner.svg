@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="330" viewBox="0 0 1000 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal animado: Pedro, Cybersecurity, Red Team e Back-End">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a0f"/>
+      <stop offset="1" stop-color="#16101f"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f472b6"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0.16"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="win"><rect x="30" y="20" width="940" height="290" rx="10"/></clipPath>
+    <clipPath id="c1"><rect class="r1" x="60" y="78" width="0" height="28"/></clipPath>
+    <clipPath id="c2"><rect class="r2" x="60" y="112" width="0" height="28"/></clipPath>
+    <clipPath id="c3"><rect class="r3" x="60" y="146" width="0" height="28"/></clipPath>
+    <clipPath id="c4"><rect class="r4" x="60" y="180" width="0" height="28"/></clipPath>
+    <clipPath id="c5"><rect class="r5" x="60" y="214" width="0" height="28"/></clipPath>
+    <clipPath id="c6"><rect class="r6" x="60" y="248" width="0" height="28"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'Fira Code','JetBrains Mono','SF Mono',Consolas,'Courier New',monospace; font-size: 17px; }
+    .p { fill: #f472b6; }
+    .t { fill: #d4d4e0; }
+    .g { fill: #7ee787; }
+    .m { fill: #a78bfa; }
+    .r1 { animation: k1 16s steps(8) infinite; }
+    .r2 { animation: k2 16s steps(44) infinite; }
+    .r3 { animation: k3 16s steps(15) infinite; }
+    .r4 { animation: k4 16s steps(37) infinite; }
+    .r5 { animation: k5 16s steps(18) infinite; }
+    .r6 { animation: k6 16s steps(42) infinite; }
+    @keyframes k1 { 0%,2% {width:0} 8%,94% {width:90px} 100% {width:0} }
+    @keyframes k2 { 0%,11% {width:0} 22%,94% {width:470px} 100% {width:0} }
+    @keyframes k3 { 0%,25% {width:0} 31%,94% {width:165px} 100% {width:0} }
+    @keyframes k4 { 0%,34% {width:0} 45%,94% {width:390px} 100% {width:0} }
+    @keyframes k5 { 0%,48% {width:0} 55%,94% {width:195px} 100% {width:0} }
+    @keyframes k6 { 0%,58% {width:0} 69%,94% {width:445px} 100% {width:0} }
+    .cursor { animation: blink 16s step-end infinite; }
+    @keyframes blink {
+      0%,69% {opacity:0} 70% {opacity:1} 75% {opacity:0} 80% {opacity:1}
+      85% {opacity:0} 90% {opacity:1} 95%,100% {opacity:0}
+    }
+    .scanline { animation: scan 6s linear infinite; }
+    @keyframes scan { 0% {transform: translateY(0)} 100% {transform: translateY(250px)} }
+    .name { animation: pulse 4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% {opacity:.82} 50% {opacity:1} }
+    .dot { animation: pulse 3s ease-in-out infinite; }
+  </style>
+
+  <!-- janela -->
+  <rect x="30" y="20" width="940" height="290" rx="10" fill="url(#bg)" stroke="#2a2735"/>
+  <g clip-path="url(#win)">
+    <rect x="30" y="20" width="940" height="290" fill="url(#grid)"/>
+    <rect class="scanline" x="30" y="40" width="940" height="60" fill="url(#scan)"/>
+    <rect x="30" y="20" width="940" height="34" fill="#12101a"/>
+    <line x1="30" y1="54" x2="970" y2="54" stroke="#2a2735"/>
+  </g>
+  <circle class="dot" cx="55" cy="37" r="5" fill="#f472b6"/>
+  <circle class="dot" cx="75" cy="37" r="5" fill="#a78bfa" style="animation-delay:.5s"/>
+  <circle class="dot" cx="95" cy="37" r="5" fill="#7ee787" style="animation-delay:1s"/>
+  <text x="500" y="42" text-anchor="middle" class="m" style="font-size:13px">pedro@lab:~ — zsh</text>
+
+  <!-- linhas digitadas -->
+  <g clip-path="url(#c1)"><text x="60" y="100"><tspan class="p">$ </tspan><tspan class="g">whoami</tspan></text></g>
+  <g clip-path="url(#c2)"><text x="60" y="134" class="t">pedro // cybersecurity + red team + back-end</text></g>
+  <g clip-path="url(#c3)"><text x="60" y="168"><tspan class="p">$ </tspan><tspan class="g">cat stack.txt</tspan></text></g>
+  <g clip-path="url(#c4)"><text x="60" y="202" class="t">redes | linux | windows | c# | python</text></g>
+  <g clip-path="url(#c5)"><text x="60" y="236"><tspan class="p">$ </tspan><tspan class="g">./learning --now</tspan></text></g>
+  <g clip-path="url(#c6)"><text x="60" y="270" class="t">java back-end | cloud security | devsecops</text></g>
+  <rect class="cursor" x="492" y="254" width="10" height="20" fill="#f472b6"/>
+
+  <!-- nome -->
+  <g class="name">
+    <text x="940" y="165" text-anchor="end" fill="url(#neon)" style="font-size:68px;font-weight:700;letter-spacing:8px">PEDRO</text>
+    <text x="940" y="196" text-anchor="end" class="m" style="font-size:14px;letter-spacing:4px">CYBERSECURITY · RED TEAM</text>
+    <line x1="640" y1="212" x2="940" y2="212" stroke="url(#neon)" stroke-width="2"/>
+    <text x="940" y="236" text-anchor="end" class="t" style="font-size:13px;opacity:.7">redes · desenvolvimento · cloud</text>
+  </g>
+</svg>
