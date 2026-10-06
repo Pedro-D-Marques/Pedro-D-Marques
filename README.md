@@ -34,7 +34,7 @@ Meu dia a dia mistura **análise técnica, redes, ferramentas de teste e automa�
 foco_atual   = Cybersecurity / Offensive Security / Red Team
 base_tecnica = Redes · Linux · Windows · C#/.NET · Python
 em_evolucao  = Back-End Java · Cloud Security · DevSecOps
-idiomas      = Português (nativo) · Inglês (uso profissional)
+idiomas      = Português (nativo) · Inglês (B2, uso profissional)
 ```
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -148,9 +148,9 @@ Contato técnico com tecnologias de comunicação sem fio através do trabalho c
 
 ## `> experiencia`
 
-**Analista Documental** · Associação Versys · *desde jul/2025*
+**Analista** · Associação Versys · *desde jul/2025*
 
-- Análise técnica de documentação e triagem de processos de equipamentos wireless
+- Análise técnica de documentação e triagem de processos.
 - Validação de amostras, conferência de modelos, variantes, acessórios e funcionamento
 - Identificação de inconsistências entre documentação, fotos e amostras físicas
 - Interface técnica com laboratórios, clientes e fabricantes, em **português e inglês**
@@ -162,8 +162,6 @@ Contato técnico com tecnologias de comunicação sem fio através do trabalho c
 
 | Projeto | Área | Stack | Status |
 |:--|:--|:--|:--|
-| **Gerador de Plano de Ensaio** | Automação de documentos | C# · WPF · OpenXML · JSON | 🚧 Em desenvolvimento |
-| **Analisador de Documentos PDF** *(com um amigo)* | Automação / Back-End | JSON local · extração de PDF | 🧭 Planejamento / MVP |
 | **Home Lab — Redes & Linux** | Infraestrutura | — | 🔜 A adicionar |
 | **Red Team Lab** | Offensive Security | — | 🔜 A adicionar |
 | **Cloud / DevSecOps Lab** | Cloud | — | 🔜 A adicionar |
