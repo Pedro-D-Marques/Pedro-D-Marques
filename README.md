@@ -176,14 +176,14 @@ Contato técnico com tecnologias de comunicação sem fio através do trabalho c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa&text_color=c9d1d9" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=c9d1d9" alt="Linguagens" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pedro-D-Marques&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa&text_color=c9d1d9" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-D-Marques&layout=compact&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=c9d1d9" alt="Linguagens" />
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&background=0d1117&ring=f472b6&fire=a78bfa&currStreakLabel=c084fc&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b8b9a&border=2a2735" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=Pedro-D-Marques&background=0d1117&ring=f472b6&fire=a78bfa&currStreakLabel=c084fc&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b8b9a&border=2a2735" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d1117&color=c084fc&line=f472b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de contribuições" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro-D-Marques&bg_color=0d1117&color=c084fc&line=f472b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de contribuições" />
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" width="100%" alt="Snake de contribuições" />
+<img src="https://raw.githubusercontent.com/Pedro-D-Marques/Pedro-D-Marques/output/github-snake-dark.svg" width="100%" alt="Snake de contribuições" />
 
 </div>
 
