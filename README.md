@@ -181,8 +181,6 @@ Contato técnico com tecnologias de comunicação sem fio através do trabalho c
 
 <img src="https://streak-stats.demolab.com?user=Pedro-D-Marques&background=0d1117&ring=f472b6&fire=a78bfa&currStreakLabel=c084fc&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=a78bfa&dates=8b8b9a&border=2a2735" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro-D-Marques&theme=github-dark&hide_border=true&area=true" width="100%" alt="Gráfico de contribuições" />
-
 <img src="https://raw.githubusercontent.com/Pedro-D-Marques/Pedro-D-Marques/output/github-snake-dark.svg" width="100%" alt="Snake de contribuições" />
 
 </div>
@@ -211,9 +209,9 @@ Combinar **Cybersecurity + Desenvolvimento + Infraestrutura + Cloud** para atuar
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d1117&color=2a2735" alt="[LinkedIn](https://www.linkedin.com/in/pedro-daniel-marques-811996317/?isSelfProfile=true)"/></a>
-<a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="GitHub"/></a>
-<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="pedrodmarques.dev@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/pedro-daniel-marques-811996317/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d1117&color=2a2735" alt="LinkedIn"/></a>
+<a href="https://github.com/Pedro-D-Marques"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="GitHub"/></a>
+<a href="mailto:pedrodmarques.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0d1117&color=2a2735" alt="Email"/></a>
 
 <br/><br/>
 
